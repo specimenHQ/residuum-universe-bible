@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "residuum-press",
+  "compatibility_date": "2026-08-01",
+  "assets": {
+    "directory": "./residuum_press_website"
+  }
+}
