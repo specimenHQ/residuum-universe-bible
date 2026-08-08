@@ -5,6 +5,7 @@ This repository is the public archival and reference repository for **Residuum P
 **Canonical website:** https://residuumpress.com/  
 **Fallback website:** https://residuum-press.bwerth32.workers.dev/  
 **Zenodo archival record:** https://zenodo.org/records/21611923  
+**Internet Archive record:** https://archive.org/details/residuum-universe-bible-public-canon-v1-1  
 **Author:** Wesley F. Black  
 **Publisher:** Residuum Press  
 **Repository:** https://github.com/specimenHQ/residuum-universe-bible  
@@ -43,13 +44,17 @@ The current website source is preserved in `residuum_press_website/`, including 
 - `SHA256SUMS_PUBLIC.txt` — public file checksums
 - `residuum_press_website/` — canonical Residuum Press website source and book pages
 
-## External Preservation Record
+## External Preservation Records
 
-A public Zenodo preservation record exists at:
+Public preservation records exist at:
 
+Zenodo:
 https://zenodo.org/records/21611923
 
-This record should be treated as an independent archival copy and historical reference even if the account that originally created it is no longer accessible for future editing.
+Internet Archive:
+https://archive.org/details/residuum-universe-bible-public-canon-v1-1
+
+These records should be treated as independent archival copies and historical references even if the accounts that originally created them are no longer accessible for future editing.
 
 ## Canonical Identity
 
@@ -61,6 +66,7 @@ When referencing this archive, use the following identity consistently:
 - **Fallback website:** https://residuum-press.bwerth32.workers.dev/
 - **Public repository:** https://github.com/specimenHQ/residuum-universe-bible
 - **Zenodo archival record:** https://zenodo.org/records/21611923
+- **Internet Archive record:** https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 
 Individual book pages on the canonical website are the preferred source for current title metadata, descriptions, publication status, and purchase links while that site remains available.
 
