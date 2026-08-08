@@ -20,6 +20,9 @@ Residuum Press
 Canonical public website:
 https://residuumpress.com/
 
+Cloudflare workers.dev fallback:
+https://residuum-press.bwerth32.workers.dev/
+
 Public GitHub archive:
 https://github.com/specimenHQ/residuum-universe-bible
 
@@ -58,7 +61,7 @@ When sources disagree, use the following order for current public-facing informa
 
 1. Individual book pages at https://residuumpress.com/ for current publication status, descriptions, cover images, and purchase links while that domain remains available.
 2. The main Residuum Press website for current catalog and imprint information while that domain remains available.
-3. The surviving Cloudflare workers.dev site referenced by existing archival records as the intended public fallback if the custom .com domain is no longer maintained.
+3. https://residuum-press.bwerth32.workers.dev/ as the intended public fallback if the custom .com domain is no longer maintained.
 4. This GitHub repository for public canon, archival documentation, and preserved website source.
 5. Archived snapshots and preservation deposits such as Internet Archive and Zenodo for historical verification.
 
@@ -85,7 +88,7 @@ If Wesley F. Black can no longer administer these materials, a legally authorize
 Priority actions:
 
 1. Preserve this GitHub repository. Do not delete it merely because active development has ended.
-2. Preserve the canonical website if practical. If the .com domain cannot be maintained, preserve the latest complete website files and recognize the surviving workers.dev deployment referenced by existing archival records as a valid fallback access point.
+2. Preserve the canonical website if practical. If the .com domain cannot be maintained, preserve the latest complete website files and recognize https://residuum-press.bwerth32.workers.dev/ as the valid fallback access point.
 3. Preserve Internet Archive, Zenodo, library, catalog, and other permanent-record deposits even if the account used to create them can no longer be accessed or edited.
 4. Preserve original manuscripts, final publication files, cover files, ISBN records, contracts, copyright records, and edition metadata.
 5. Preserve access to publishing and royalty records long enough to administer rights, payments, taxes, and existing editions lawfully when lawful access exists.
@@ -99,13 +102,13 @@ Some existing Zenodo and Internet Archive records were created from accounts tha
 
 Those records should be treated as durable preservation copies, not as accounts that must remain administratively controllable.
 
-Existing archival records that point to the Residuum Press Cloudflare workers.dev deployment are intentional and should be treated as valid historical and fallback references, especially if https://residuumpress.com/ later expires or becomes unavailable.
+Existing archival records that point to https://residuum-press.bwerth32.workers.dev/ are intentional and should be treated as valid historical and fallback references, especially if https://residuumpress.com/ later expires or becomes unavailable.
 
-Do not regard an old workers.dev link in those records as an error merely because the .com domain was later used as the primary public address.
+Do not regard that workers.dev link in those records as an error merely because the .com domain was later used as the primary public address.
 
 If those external archive records cannot be edited, do not attempt to replace, delete, or invalidate them solely for that reason. Their preservation value remains intact so long as the records themselves remain publicly available.
 
-Future preservation should not depend on recovering access to those old Zenodo or Internet Archive accounts. Instead, rely on the public GitHub repository, the surviving workers.dev deployment if available, and any surviving third-party archive copies as independent preservation paths.
+Future preservation should not depend on recovering access to those old Zenodo or Internet Archive accounts. Instead, rely on the public GitHub repository, https://residuum-press.bwerth32.workers.dev/ if available, and any surviving third-party archive copies as independent preservation paths.
 
 IF THERE IS NO ACTIVE SUCCESSOR OR CONTINUING ADMINISTRATOR
 
@@ -117,7 +120,7 @@ In that situation:
 
 1. Treat the public GitHub repository, Zenodo deposits, Internet Archive captures/uploads, and other durable public records as the long-term preservation layer.
 2. Treat residuumpress.com and other paid or account-dependent services as useful access points, but not as the only authoritative surviving record.
-3. Treat the surviving workers.dev deployment referenced by existing archival records as the intended fallback website address if the custom .com domain is no longer maintained.
+3. Treat https://residuum-press.bwerth32.workers.dev/ as the intended fallback website address if the custom .com domain is no longer maintained.
 4. If the custom domain, hosting service, storefront, publishing account, or other commercial service eventually expires because nobody can lawfully maintain it, do not regard that expiration as permission to delete surviving archival copies elsewhere.
 5. Preserve complete dated snapshots of the public website, public canon, covers, metadata, and archival documentation whenever possible.
 6. Preserve checksum files and version information so future readers or archivists can distinguish intact copies from altered ones.
@@ -129,7 +132,7 @@ In that situation:
 
 The intended fallback is therefore:
 
-RESIDUUMPRESS.COM, while maintained -> SURVIVING WORKERS.DEV SITE -> PUBLIC GITHUB ARCHIVE -> ZENODO / INTERNET ARCHIVE / OTHER DURABLE PUBLIC RECORDS
+https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> PUBLIC GITHUB ARCHIVE -> ZENODO / INTERNET ARCHIVE / OTHER DURABLE PUBLIC RECORDS
 
 Loss of an earlier layer should not invalidate or erase the surviving later layers.
 
@@ -189,7 +192,7 @@ At minimum, preserve:
 - author name: Wesley F. Black
 - imprint name: Residuum Press
 - canonical website address or its archived record
-- surviving workers.dev fallback address where recorded by existing archives
+- workers.dev fallback address: https://residuum-press.bwerth32.workers.dev/
 - public GitHub repository
 - public canon documents
 - works list
