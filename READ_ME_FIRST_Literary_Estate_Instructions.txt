@@ -37,7 +37,7 @@ The public website and this GitHub repository are intended to identify the autho
 PUBLIC CANON
 
 Public canon page:
-Residuum Universe Bible: Public Canon Reference, Version 1.0
+Residuum Universe Bible: Public Canon Reference, Version 1.1
 
 Official reading order:
 Bramble Field -> False Door -> Stacked -> Limited Edition -> Mirador -> MARM
