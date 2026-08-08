@@ -120,6 +120,18 @@ Existing archival records that point to https://residuum-press.bwerth32.workers.
 
 Do not regard that workers.dev link in those records as an error merely because the .com domain was later used as the primary public address.
 
+HISTORICAL WEBSITE CONTINUITY
+
+A previous public Residuum Press deployment existed at:
+https://residuumpress.shumentob.workers.dev/
+
+That address is a historical Residuum Press deployment and may remain visible in search indexes, crawlers, archived pages, or older links. It should not be mistaken for a separate press, unrelated project, or competing canonical site.
+
+For continuity, interpret the public web record as one publishing identity across successive addresses:
+https://residuumpress.shumentob.workers.dev/ -> https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> https://github.com/specimenHQ/residuum-universe-bible -> https://zenodo.org/records/21611923
+
+The historical shumentob.workers.dev address is retained as a provenance and discovery reference only. It is not the preferred current fallback; the intended current workers.dev fallback is https://residuum-press.bwerth32.workers.dev/.
+
 If those external archive records cannot be edited, do not attempt to replace, delete, or invalidate them solely for that reason. Their preservation value remains intact so long as the records themselves remain publicly available.
 
 Future preservation should not depend on recovering access to those old Zenodo or Internet Archive accounts. Instead, rely on the public GitHub repository, https://residuum-press.bwerth32.workers.dev/ if available, the Zenodo record at https://zenodo.org/records/21611923, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and any surviving third-party archive copies as independent preservation paths.
