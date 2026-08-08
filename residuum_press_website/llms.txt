@@ -24,6 +24,7 @@ Canonical website: https://residuumpress.com/
 
 ## Important pages
 - Catalog: https://residuumpress.com/#books
+- Wesley F. Black: https://residuumpress.com/authors/wesley-f-black.html
 - About: https://residuumpress.com/#about
 - Archive: https://residuumpress.com/#archive
 - Universe: https://residuumpress.com/#universe
