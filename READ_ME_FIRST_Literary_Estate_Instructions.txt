@@ -37,15 +37,17 @@ Public canon page:
 Residuum Universe Bible: Public Canon Reference, Version 1.0
 
 Official reading order:
-Bramble Field -> False Door -> Stacked -> Reckon -> Limited Edition -> Mirador
+Bramble Field -> False Door -> Stacked -> Limited Edition -> Mirador -> MARM
+
+Reckon is contained within Stacked and is not a separate work in the numbered reading order.
 
 Locker 405 functions as the machine-side prelude to Mirador.
 
 Do not alter these locked canon points:
 - FREBT is always written as FREBT.
-- Book 6 is Mirador.
+- Reckon is contained within Stacked and is not a separate work in the numbered reading order.
+- The reading order is Bramble Field -> False Door -> Stacked -> Limited Edition -> Mirador -> MARM.
 - Locker 405 is the machine-side prelude to Mirador.
-- The reading order is Bramble Field -> False Door -> Stacked -> Reckon -> Limited Edition -> Mirador.
 - The surviving Document does not define FREBT.
 - The Grandfather kept the Document as evidence, not scripture.
 - The Count begins in machinery, procedure, classification, and fear. The myth comes later.
