@@ -1,0 +1,97 @@
+name: Sync current Residuum Press site
+
+on:
+  push:
+    branches:
+      - sync-current-site
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync-current-site
+
+      - name: Download current live site
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://residuumpress.com"
+          root="residuum_press_website"
+          mkdir -p "$root/assets/covers" "$root/assets" "$root/books"
+          rm -rf "$root/residuum_press_website"
+
+          files=(
+            "BingSiteAuth.xml"
+            "apple-touch-icon.png"
+            "assets/covers/banana-code.jpg"
+            "assets/covers/bias.png"
+            "assets/covers/bitter.png"
+            "assets/covers/blind-spot.jpeg"
+            "assets/covers/bramble-field.jpg"
+            "assets/covers/false-door.jpg"
+            "assets/covers/hue.png"
+            "assets/covers/limited-edition.jpg"
+            "assets/covers/marm.png"
+            "assets/covers/mirador.png"
+            "assets/covers/shade.jpg"
+            "assets/covers/snippet.png"
+            "assets/covers/something-else.jpg"
+            "assets/covers/stacked.jpg"
+            "assets/covers/stratum.png"
+            "assets/covers/workds.jpeg"
+            "assets/rp-monogram-transparent-v2.png"
+            "books/banana-code.html"
+            "books/bias.html"
+            "books/bitter.html"
+            "books/blind-spot.html"
+            "books/bramble-field.html"
+            "books/false-door.html"
+            "books/hue.html"
+            "books/limited-edition.html"
+            "books/marm.html"
+            "books/mirador.html"
+            "books/shade.html"
+            "books/snippet.html"
+            "books/something-else.html"
+            "books/stacked.html"
+            "books/stratum.html"
+            "books/workds.html"
+            "favicon-16x16.png"
+            "favicon-192x192.png"
+            "favicon-32x32.png"
+            "favicon-48x48.png"
+            "favicon-512x512.png"
+            "favicon.ico"
+            "google40233b5a41e91ea3.html"
+            "index.html"
+            "legal.html"
+            "script.js"
+            "site.webmanifest"
+            "styles.css"
+            "submissions.html"
+          )
+
+          for f in "${files[@]}"; do
+            mkdir -p "$root/$(dirname "$f")"
+            curl --fail --silent --show-error --location "$base/$f" --output "$root/$f"
+          done
+
+      - name: Commit synchronized site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add residuum_press_website
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync current live Residuum Press site [skip ci]"
+            git push origin sync-current-site
+          fi
