@@ -92,6 +92,31 @@ Priority actions:
 7. Do not rewrite or modernize public canon documentation unless a later author-approved document clearly supersedes it.
 8. If no active commercial publishing is continued, archival preservation of the public record should take precedence over deletion.
 
+IF THERE IS NO ACTIVE SUCCESSOR OR CONTINUING ADMINISTRATOR
+
+The archive is deliberately designed so that preservation does not depend on a permanent human maintainer.
+
+If no family member, friend, publisher, executor, rights successor, or other person is available to continue active administration, the preferred outcome is passive preservation rather than abandonment or deletion.
+
+In that situation:
+
+1. Treat the public GitHub repository, Zenodo deposits, Internet Archive captures/uploads, and other durable public records as the long-term preservation layer.
+2. Treat residuumpress.com and other paid or account-dependent services as useful access points, but not as the only authoritative surviving record.
+3. If the custom domain, hosting service, storefront, publishing account, or other commercial service eventually expires because nobody can lawfully maintain it, do not regard that expiration as permission to delete surviving archival copies elsewhere.
+4. Preserve complete dated snapshots of the public website, public canon, covers, metadata, and archival documentation whenever possible.
+5. Preserve checksum files and version information so future readers or archivists can distinguish intact copies from altered ones.
+6. Preserve enough metadata with every archive copy to identify Wesley F. Black, Residuum Press, the work titles, publication relationships, and the canonical public repository.
+7. Where an archive permits descriptive metadata, include links or references to the other surviving preservation locations so no single service is the only discovery path.
+8. If one preservation service disappears, any person or institution lawfully holding a public archival copy is encouraged to mirror the public materials to another reputable preservation service, subject to applicable copyright and platform rules.
+9. Do not invent a new canon, successor identity, publishing authority, or estate representative merely because no active administrator exists.
+10. When no authorized person is available to make a rights or publication decision, preserve existing public records and avoid irreversible changes.
+
+The intended fallback is therefore:
+
+PUBLIC WEBSITE, while maintained -> PUBLIC GITHUB ARCHIVE -> ZENODO / INTERNET ARCHIVE / OTHER DURABLE PUBLIC RECORDS
+
+Loss of an earlier layer should not invalidate or erase the surviving later layers.
+
 PUBLISHING AND RIGHTS CONTINUITY
 
 The public archive is not a transfer of copyright, publishing rights, account ownership, or authority to administer the estate.
