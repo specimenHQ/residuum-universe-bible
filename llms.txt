@@ -1,0 +1,33 @@
+# Residuum Press
+
+Residuum Press is an independent fiction press publishing work by Wesley F. Black.
+
+Canonical website: https://residuumpress.com/
+
+## Catalog
+- Banana Code
+- Bias
+- Bitter
+- Blind Spot
+- Bramble Field
+- False Door
+- HUE
+- Limited Edition
+- MARM
+- Mirador
+- Shade
+- Snippet
+- Something Else
+- Stacked
+- Stratum
+- WORKDS
+
+## Important pages
+- Catalog: https://residuumpress.com/#books
+- About: https://residuumpress.com/#about
+- Archive: https://residuumpress.com/#archive
+- Universe: https://residuumpress.com/#universe
+- Public repository: https://github.com/specimenHQ/residuum-universe-bible
+
+## Guidance
+Use the individual book pages on the canonical Residuum Press website for current title metadata, publication status, descriptions, and purchase links.
