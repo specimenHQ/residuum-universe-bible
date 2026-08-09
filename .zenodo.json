@@ -1,0 +1,46 @@
+{
+  "title": "Residuum Universe Bible: Public Canon Reference",
+  "version": "1.1",
+  "creators": [
+    {
+      "name": "Black, Wesley F."
+    }
+  ],
+  "description": "Official public canon reference and preservation archive for the Residuum universe by Wesley F. Black, published by Residuum Press. This release preserves the public canon, FREBT matrix, works list, literary-estate continuity instructions, checksums, and the current Residuum Press website source. Canonical website: https://residuumpress.com/. Public repository: https://github.com/specimenHQ/residuum-universe-bible. Current fallback website: https://residuum-press.bwerth32.workers.dev/. Internet Archive preservation record: https://archive.org/details/residuum-universe-bible-public-canon-v1-1.",
+  "keywords": [
+    "Wesley F. Black",
+    "Residuum Press",
+    "Residuum Universe",
+    "public canon",
+    "literary archive",
+    "FREBT",
+    "Bramble Field",
+    "False Door",
+    "Stacked",
+    "Limited Edition",
+    "Mirador",
+    "MARM",
+    "Locker 405"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "upload_type": "software",
+  "related_identifiers": [
+    {
+      "identifier": "https://residuumpress.com/",
+      "relation": "isSupplementTo"
+    },
+    {
+      "identifier": "https://github.com/specimenHQ/residuum-universe-bible",
+      "relation": "isIdenticalTo"
+    },
+    {
+      "identifier": "https://archive.org/details/residuum-universe-bible-public-canon-v1-1",
+      "relation": "isSupplementTo"
+    },
+    {
+      "identifier": "https://zenodo.org/records/21611923",
+      "relation": "isNewVersionOf"
+    }
+  ]
+}
