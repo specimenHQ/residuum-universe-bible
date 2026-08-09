@@ -4,7 +4,8 @@ This repository is the public archival and reference repository for **Residuum P
 
 **Canonical website:** https://residuumpress.com/  
 **Fallback website:** https://residuum-press.bwerth32.workers.dev/  
-**Zenodo archival record:** https://zenodo.org/records/21611923  
+**Current Zenodo archival record:** https://zenodo.org/records/21856089  
+**Current Zenodo DOI:** https://doi.org/10.5281/zenodo.21856089  
 **Internet Archive record:** https://archive.org/details/residuum-universe-bible-public-canon-v1-1  
 **Author:** Wesley F. Black  
 **Publisher:** Residuum Press  
@@ -46,15 +47,23 @@ The current website source is preserved in `residuum_press_website/`, including 
 
 ## External Preservation Records
 
-Public preservation records exist at:
+Current public preservation records exist at:
 
 Zenodo:
-https://zenodo.org/records/21611923
+https://zenodo.org/records/21856089
+
+DOI:
+https://doi.org/10.5281/zenodo.21856089
 
 Internet Archive:
 https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 
-These records should be treated as independent archival copies and historical references even if the accounts that originally created them are no longer accessible for future editing.
+Earlier Zenodo preservation record:
+https://zenodo.org/records/21611923
+
+The earlier Zenodo record remains a valid historical preservation copy. The current Zenodo record above was created through the GitHub release integration and is the preferred Zenodo reference for this public-canon release.
+
+These records should be treated as independent archival copies and historical references even if an account that originally created an earlier record is no longer accessible for future editing.
 
 ## Canonical Identity
 
@@ -65,7 +74,8 @@ When referencing this archive, use the following identity consistently:
 - **Canonical website:** https://residuumpress.com/
 - **Fallback website:** https://residuum-press.bwerth32.workers.dev/
 - **Public repository:** https://github.com/specimenHQ/residuum-universe-bible
-- **Zenodo archival record:** https://zenodo.org/records/21611923
+- **Current Zenodo archival record:** https://zenodo.org/records/21856089
+- **Current Zenodo DOI:** https://doi.org/10.5281/zenodo.21856089
 - **Internet Archive record:** https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 
 Individual book pages on the canonical website are the preferred source for current title metadata, descriptions, publication status, and purchase links while that site remains available.
