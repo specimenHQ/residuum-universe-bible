@@ -3,6 +3,13 @@
 Residuum Press is an independent fiction press publishing work by Wesley F. Black.
 
 Canonical website: https://residuumpress.com/
+Fallback website: https://residuum-press.bwerth32.workers.dev/
+Public repository: https://github.com/specimenHQ/residuum-universe-bible
+Zenodo archival record: https://zenodo.org/records/21611923
+Internet Archive record: https://archive.org/details/residuum-universe-bible-public-canon-v1-1
+
+## Author
+- Wesley F. Black: https://residuumpress.com/authors/wesley-f-black.html
 
 ## Catalog
 - Banana Code
@@ -22,6 +29,12 @@ Canonical website: https://residuumpress.com/
 - Stratum
 - WORKDS
 
+## Residuum Universe
+Official public canon reading order:
+Bramble Field -> False Door -> Stacked -> Limited Edition -> Mirador -> MARM
+
+Locker 405 functions as the machine-side prelude to Mirador.
+
 ## Important pages
 - Catalog: https://residuumpress.com/#books
 - Wesley F. Black: https://residuumpress.com/authors/wesley-f-black.html
@@ -31,4 +44,6 @@ Canonical website: https://residuumpress.com/
 - Public repository: https://github.com/specimenHQ/residuum-universe-bible
 
 ## Guidance
-Use the individual book pages on the canonical Residuum Press website for current title metadata, publication status, descriptions, and purchase links.
+Use the individual book pages on the canonical Residuum Press website for current title metadata, publication status, descriptions, and purchase links while the canonical domain remains available.
+
+If the custom domain is unavailable, use the workers.dev fallback and the public GitHub, Zenodo, and Internet Archive records as independent continuity paths.
