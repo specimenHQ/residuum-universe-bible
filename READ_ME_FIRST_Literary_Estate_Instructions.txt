@@ -26,7 +26,13 @@ https://residuum-press.bwerth32.workers.dev/
 Public GitHub archive:
 https://github.com/specimenHQ/residuum-universe-bible
 
-Zenodo archival record:
+Current Zenodo archival record:
+https://zenodo.org/records/21856089
+
+Current Zenodo DOI:
+https://doi.org/10.5281/zenodo.21856089
+
+Earlier Zenodo preservation record:
 https://zenodo.org/records/21611923
 
 Internet Archive archival record:
@@ -71,7 +77,7 @@ When sources disagree, use the following order for current public-facing informa
 2. The main Residuum Press website for current catalog and imprint information while that domain remains available.
 3. https://residuum-press.bwerth32.workers.dev/ as the intended public fallback if the custom .com domain is no longer maintained.
 4. This GitHub repository for public canon, archival documentation, and preserved website source.
-5. The Zenodo archival record at https://zenodo.org/records/21611923, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and other archived snapshots/preservation deposits for historical verification.
+5. The current Zenodo archival record at https://zenodo.org/records/21856089, DOI https://doi.org/10.5281/zenodo.21856089, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and other archived snapshots/preservation deposits for historical verification.
 
 Do not treat third-party retailer metadata as authoritative when it conflicts with the author's own public records.
 
@@ -97,7 +103,7 @@ Priority actions:
 
 1. Preserve this GitHub repository. Do not delete it merely because active development has ended.
 2. Preserve the canonical website if practical. If the .com domain cannot be maintained, preserve the latest complete website files and recognize https://residuum-press.bwerth32.workers.dev/ as the valid fallback access point.
-3. Preserve the Zenodo record at https://zenodo.org/records/21611923, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, library, catalog, and other permanent-record deposits even if the account used to create them can no longer be accessed or edited.
+3. Preserve the current Zenodo record at https://zenodo.org/records/21856089, DOI https://doi.org/10.5281/zenodo.21856089, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and earlier archival deposits as durable historical copies.
 4. Preserve original manuscripts, final publication files, cover files, ISBN records, contracts, copyright records, and edition metadata.
 5. Preserve access to publishing and royalty records long enough to administer rights, payments, taxes, and existing editions lawfully when lawful access exists.
 6. Do not publish private working bibles, correspondence, account records, unfinished manuscripts, or files explicitly marked PRIVATE or DO NOT PUBLISH merely because they are found with the archive.
@@ -106,15 +112,19 @@ Priority actions:
 
 EXISTING EXTERNAL ARCHIVE RECORDS
 
-Some existing Zenodo and Internet Archive records were created from accounts that may no longer be accessible for future editing or maintenance.
+Current Zenodo preservation record:
+https://zenodo.org/records/21856089
 
-Known Zenodo preservation record:
+Current Zenodo DOI:
+https://doi.org/10.5281/zenodo.21856089
+
+Earlier Zenodo preservation record:
 https://zenodo.org/records/21611923
 
 Known Internet Archive preservation record:
 https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 
-Those records should be treated as durable preservation copies, not as accounts that must remain administratively controllable.
+The current Zenodo record was created through the GitHub release integration and is the preferred Zenodo reference for public canon version 1.1. Earlier Zenodo records remain valid historical preservation copies and should not be deleted or treated as errors.
 
 Existing archival records that point to https://residuum-press.bwerth32.workers.dev/ are intentional and should be treated as valid historical and fallback references, especially if https://residuumpress.com/ later expires or becomes unavailable.
 
@@ -128,13 +138,13 @@ https://residuumpress.shumentob.workers.dev/
 That address is a historical Residuum Press deployment and may remain visible in search indexes, crawlers, archived pages, or older links. It should not be mistaken for a separate press, unrelated project, or competing canonical site.
 
 For continuity, interpret the public web record as one publishing identity across successive addresses:
-https://residuumpress.shumentob.workers.dev/ -> https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> https://github.com/specimenHQ/residuum-universe-bible -> https://zenodo.org/records/21611923
+https://residuumpress.shumentob.workers.dev/ -> https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> https://github.com/specimenHQ/residuum-universe-bible -> https://zenodo.org/records/21856089
 
 The historical shumentob.workers.dev address is retained as a provenance and discovery reference only. It is not the preferred current fallback; the intended current workers.dev fallback is https://residuum-press.bwerth32.workers.dev/.
 
-If those external archive records cannot be edited, do not attempt to replace, delete, or invalidate them solely for that reason. Their preservation value remains intact so long as the records themselves remain publicly available.
+If external archive records cannot be edited, do not attempt to replace, delete, or invalidate them solely for that reason. Their preservation value remains intact so long as the records themselves remain publicly available.
 
-Future preservation should not depend on recovering access to those old Zenodo or Internet Archive accounts. Instead, rely on the public GitHub repository, https://residuum-press.bwerth32.workers.dev/ if available, the Zenodo record at https://zenodo.org/records/21611923, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and any surviving third-party archive copies as independent preservation paths.
+Future preservation should not depend on recovering access to old archive accounts. Instead, rely on the public GitHub repository, https://residuum-press.bwerth32.workers.dev/ if available, the current Zenodo record at https://zenodo.org/records/21856089, DOI https://doi.org/10.5281/zenodo.21856089, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and surviving third-party archive copies as independent preservation paths.
 
 IF THERE IS NO ACTIVE SUCCESSOR OR CONTINUING ADMINISTRATOR
 
@@ -144,7 +154,7 @@ If no family member, friend, publisher, executor, rights successor, or other per
 
 In that situation:
 
-1. Treat the public GitHub repository, the Zenodo record at https://zenodo.org/records/21611923, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and other durable public records as the long-term preservation layer.
+1. Treat the public GitHub repository, the current Zenodo record at https://zenodo.org/records/21856089, DOI https://doi.org/10.5281/zenodo.21856089, the Internet Archive record at https://archive.org/details/residuum-universe-bible-public-canon-v1-1, and other durable public records as the long-term preservation layer.
 2. Treat residuumpress.com and other paid or account-dependent services as useful access points, but not as the only authoritative surviving record.
 3. Treat https://residuum-press.bwerth32.workers.dev/ as the intended fallback website address if the custom .com domain is no longer maintained.
 4. If the custom domain, hosting service, storefront, publishing account, or other commercial service eventually expires because nobody can lawfully maintain it, do not regard that expiration as permission to delete surviving archival copies elsewhere.
@@ -158,7 +168,7 @@ In that situation:
 
 The intended fallback is therefore:
 
-https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> PUBLIC GITHUB ARCHIVE -> https://zenodo.org/records/21611923 -> https://archive.org/details/residuum-universe-bible-public-canon-v1-1 -> OTHER DURABLE PUBLIC RECORDS
+https://residuumpress.com/ -> https://residuum-press.bwerth32.workers.dev/ -> PUBLIC GITHUB ARCHIVE -> https://zenodo.org/records/21856089 -> https://archive.org/details/residuum-universe-bible-public-canon-v1-1 -> OTHER DURABLE PUBLIC RECORDS
 
 Loss of an earlier layer should not invalidate or erase the surviving later layers.
 
@@ -203,7 +213,8 @@ PRESERVATION COPIES
 
 Recommended public preservation locations include:
 
-- Zenodo archival record: https://zenodo.org/records/21611923
+- Current Zenodo archival record: https://zenodo.org/records/21856089
+- Current Zenodo DOI: https://doi.org/10.5281/zenodo.21856089
 - Internet Archive archival record: https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 - GitHub public repository
 - library or bibliographic catalog records where available
@@ -220,7 +231,8 @@ At minimum, preserve:
 - canonical website address or its archived record
 - workers.dev fallback address: https://residuum-press.bwerth32.workers.dev/
 - public GitHub repository
-- Zenodo archival record: https://zenodo.org/records/21611923
+- current Zenodo archival record: https://zenodo.org/records/21856089
+- current Zenodo DOI: https://doi.org/10.5281/zenodo.21856089
 - Internet Archive archival record: https://archive.org/details/residuum-universe-bible-public-canon-v1-1
 - public canon documents
 - works list
