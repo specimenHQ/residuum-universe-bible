@@ -35,6 +35,15 @@ The current website source is preserved in `residuum_press_website/`, including 
 
 **MARM publication status:** Published.
 
+## Capture Matrix Framework
+
+**The Capture Matrix Framework — Domain-General Reference Model v1.0** is a Wesley F. Black / Residuum reference framework dated **12 July 2026**. It presents a transferable model for depicting or analyzing capture mechanisms, including the formulation **PRODUCT = SIGNAL × CONSTRAINT** and the Residuum-specific form **FREBT = FRET × DEBT**.
+
+It is preserved as a framework/reference document and does **not** replace the current Residuum public canon v1.1. Period-specific statements in the July 2026 framework are retained as historical provenance rather than silently revised.
+
+Public framework page:
+https://residuumpress.com/capture-matrix.html
+
 ## Public Archive Files
 
 - `Residuum_Universe_Bible_Public_Canon_v1.md` — full public canon page
@@ -44,6 +53,7 @@ The current website source is preserved in `residuum_press_website/`, including 
 - `ARCHIVE_METADATA_TEMPLATE.txt` — suggested metadata for preservation sites
 - `SHA256SUMS_PUBLIC.txt` — public file checksums
 - `residuum_press_website/` — canonical Residuum Press website source and book pages
+- `residuum_press_website/capture-matrix.html` — public reference page for The Capture Matrix Framework v1.0
 
 ## External Preservation Records
 
