@@ -36,12 +36,19 @@ Bramble Field -> False Door -> Stacked -> Limited Edition -> Mirador -> MARM
 
 Locker 405 functions as the machine-side prelude to Mirador.
 
+## Capture Matrix Framework
+- https://residuumpress.com/capture-matrix.html
+- The Capture Matrix Framework: Domain-General Reference Model v1.0, version date 12 July 2026, origin case the Residuum Universe (Wesley F. Black, 2026).
+- Preserved as a framework/reference document distinct from the current Residuum public canon v1.1.
+- Core formulation: PRODUCT = SIGNAL x CONSTRAINT; Residuum-specific formulation: FREBT = FRET x DEBT.
+
 ## Important pages
 - Catalog: https://residuumpress.com/#books
 - Wesley F. Black: https://residuumpress.com/authors/wesley-f-black.html
 - About: https://residuumpress.com/#about
 - Archive: https://residuumpress.com/#archive
 - Universe: https://residuumpress.com/#universe
+- Capture Matrix Framework: https://residuumpress.com/capture-matrix.html
 - Public repository: https://github.com/specimenHQ/residuum-universe-bible
 
 ## Preservation history
