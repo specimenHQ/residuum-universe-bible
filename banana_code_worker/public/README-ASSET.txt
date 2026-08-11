@@ -1,0 +1,1 @@
+The 404 page should use the supplied sad banana artwork.
